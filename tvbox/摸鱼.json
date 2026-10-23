@@ -1,5 +1,5 @@
 {
-  "spider": "https://qiniu.gongxueyun.com/upload/3061666/2026-10-21/report/617960277_3_1792613661776.jar;md5;c9f60a6db0d8ab4521ef5ab3a87939a8",
+  "spider": "https://qiniu.gongxueyun.com/upload/8589433/2026-10-22/noknow/740826520_1_1792704181267.jar;md5;a63ac4211fd6d23432634a2a7c8240b9",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
@@ -116,14 +116,24 @@
       "ext": "http:///AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw="
     },
     {
-      "key": "xiaozuo",
-      "name": "🍃┆等风┆4K",
+      "key": "TangPing",
+      "name": "🛋️┆躺平┆4K",
       "type": 3,
-      "api": "csp_DengFeng",
+      "api": "csp_TangPing",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:///ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o/eKOpDWbngYFUGIJGTa56hr3Hk0="
+      "ext": "http:///AUVdS2Q3l8yS7JhOkMXYE1ntTJ/61k8MzQmaQMqSZBbUKDBy/udxVLxvXhNDvifvbkVTEawL3m2p9hhwbTibxnA="
+    },
+    {
+      "key": "LaiChuang",
+      "name": "🛏️┆赖床┆4K",
+      "type": 3,
+      "api": "csp_LaiChuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http:///AVlJ4J+D/3DMzdKAQnig/9ckDSQU7H+PyPyOE/q+m7eGkaZ9YjDkVXgq17TjYCHuvJa0UinsvgwPiAVd51fKuA0="
     },
     {
       "key": "bandeng",
@@ -156,6 +166,26 @@
       "ext": "http:///AaS+rL6EXhyvk8kjx88vlhuoYDJVmN5DsnAVOsk5czv2bwkZzheDDKql32lVf6q85wzRh5PjXcFBwpnie3x9mhA="
     },
     {
+      "key": "ZhiWo",
+      "name": "🌙┆知我┆4K",
+      "type": 3,
+      "api": "csp_ZhiWo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http:///AX1Vvf8Pdib7pGaiG52YtJfoH7J54wUt+/pfCo7QJrhIKMK6XXxVbbJG3pw3yHdOUVcBrTyo1EmM8M91pY30AUE="
+    },
+    {
+      "key": "xiaozuo",
+      "name": "🍃┆等风┆4K",
+      "type": 3,
+      "api": "csp_DengFeng",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http:///ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o/eKOpDWbngYFUGIJGTa56hr3Hk0="
+    },
+    {
       "key": "KanJu",
       "name": "🎬┆流映┆4K",
       "type": 3,
@@ -168,16 +198,6 @@
         "site": "https://kanju.ai",
         "playname": "http:///ly"
       }
-    },
-    {
-      "key": "Luck",
-      "name": "🍀┆青禾┆4K",
-      "type": 3,
-      "api": "csp_Luck",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http:///AVmGXIMHPYJNn3HvSEi3xt7y9lvzeljaj05GoaXvvD+OfVblWT5H+uivsxMUWrD0yr6b88fIHjZqG13478wcYgU="
     },
     {
       "key": "素笺",
