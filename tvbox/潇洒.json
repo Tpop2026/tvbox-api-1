@@ -1,5 +1,5 @@
 {
-  "spider": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261117/MyTz/0X0/11171119.png;md5;decb609b673019e18512dc3a96b6a252",
+  "spider": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261125/w6zx/0X0/11250121.png;md5;64622ff0fdba63ce7e76ee77e263b35c",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -67,15 +67,6 @@
       "filterable": 0
     },
     {
-      "key": "下饭",
-      "name": "下饭 • APP",
-      "type": 3,
-      "api": "csp_JuXiaFan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "快映fox",
       "name": "快映 • APP",
       "type": 3,
@@ -140,7 +131,29 @@
       "key": "韩圈",
       "name": "韩圈 • APP",
       "type": 3,
-      "api": "csp_Hxq"
+      "api": "csp_Hxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "师兄",
+      "name": "师兄 • APP",
+      "type": 3,
+      "api": "csp_AppV7",
+      "ext": {
+        "host": "http://app2.dsx.ac/ndsx.php",
+        "version": "https://9877.kstore.space/4.0.6",
+        "version_number": "4006",
+        "pk_id": "https://9877.kstore.space/com.qdsj.zxt.hzjc",
+        "build_time": "1790053427039",
+        "sign_md5": "https://9877.kstore.space/56a4bb80bd67422e9c5b48f003d445c8",
+        "apk_length": "59954699",
+        "platform": "",
+        "platform_version": "https://9877.kstore.space/TP1A.220624.014",
+        "user_agent": "https://9877.kstore.space/Dart/3.11 (dart:io)",
+        "private_key": "https://9877.kstore.space/MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAO9omsi+ys7fmBH3w1d0DfvRAQlj0wLB1BI3Xsb9WSiu4lEc1Me+XubnzTxaQPCBbnuZURerRrO981n9GhsQkDcWmtW+X1mpCllOWt8bbnWwKPsHqemRFxncDWE/d0nA9yrZn6nLVy/J7DJ3cVJlIs9bNLArqEiR8KVrAf1PNSLXAgMBAAECgYBGPn3z2q8s5cP7uaOSHFYiBZ/1PlniXDa6JY7ked9YJX/35qqz9LJps6evRpf5OTDOiRyXAkUbZedqBu5K9KArSGVyxp/Vym4b0siEVeM8qq9Gbf74lHPH+L+X/NmXemydwZHR1lU9PiLJVMsh8o6aAazkB8ijZcsNMyYZUSH36QJBAPvHq511Uz45lx5BtVSZClcUnqPRFSmNnRdjATikDzFTObemnGJU3eL/7VIPWtjEj9LvGP/WyX6gyo1zKc8BRtUCQQDza9oFnSmMHPkvrll/zMxcy3FeOTW0hctBhdIMbBmjJJyhlfTmBOvxwm8I91F05ydkSZ1yLuLhAjLxbjqs2fD7AkB/KOHQvW+UTqu22ULGfiCNyFkyrSc9/EqphBQa0ijmJX1R9nCm7Ou/eLgYKK8eKW/l/WGn3IeZT4XdGJu185QdAkBthqmivQRktuSoP5qlllCdsCxiaPtxLoI2CTBpxnoCngab7g0zMiO3s/Sh5CYSo69lwHnHVrFe7M5fM2nTPHzhAkEAiJETUvYFwCVKNGTYMzUg7v3QblqYXB+IhzcU37sHZOn6a46V5eJDadavIvuEmoxJHWTybi+1ZkN7LeUUg4ylCw=="
+      }
     },
     {
       "key": "剧圈99",
@@ -403,22 +416,6 @@
       "timeout": 60
     },
     {
-      "key": "闪电",
-      "name": "闪电 • 4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://shandian.blog"
-        ]
-      },
-      "timeout": 60
-    },
-    {
       "key": "蜡笔",
       "name": "蜡笔 • 4K",
       "type": 3,
@@ -433,6 +430,23 @@
           "https://www.mmpanpan.site",
           "http://tvpanpan.site",
           "http://www.tvpanpan.site"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "闪电",
+      "name": "闪电 • 4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://oo.sduc.site",
+          "http://sd.sduc.site"
         ]
       },
       "timeout": 60
@@ -516,10 +530,9 @@
       "quickSearch": 0,
       "ext": {
         "site": [
-          "https://sidhub.cc",
+          "https://seedog.cc",
           "https://seeduck.cc",
-          "https://hubdog.cc",
-          "http://104.243.25.80"
+          "https://hubdog.cc"
         ]
       },
       "timeout": 60
@@ -574,8 +587,8 @@
       "filterable": 1,
       "ext": {
         "site": [
-          "https://www.hdmoli.com",
-          "https://www.hdmoli.pro"
+          "https://www.hdmoli.me",
+          "https://www.hdmoli.org"
         ]
       },
       "timeout": 60
@@ -713,12 +726,6 @@
       "api": "csp_XingChen"
     },
     {
-      "key": "飞娱影视",
-      "name": "飞娱 • 影视",
-      "type": 3,
-      "api": "csp_Feiyu"
-    },
-    {
       "key": "旺旺影视",
       "name": "旺旺 • 影视",
       "type": 3,
@@ -745,14 +752,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cz01.vip"
+      "ext": "https://www.4kcz.com"
     },
     {
       "key": "金牌影视",
       "name": "金牌 • 影视",
       "type": 3,
       "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "ext": "https://www.sunnafh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "骚火影视",
@@ -760,13 +767,6 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us"
-    },
-    {
-      "key": "枫叶影视",
-      "name": "枫叶 • 影视",
-      "type": 3,
-      "api": "csp_FengYe",
-      "ext": "https://www.vip1949.com/"
     },
     {
       "key": "爱看机器人",
@@ -814,13 +814,13 @@
       }
     },
     {
-      "key": "赏月",
+      "key": "赏月动漫",
       "name": "赏月 • 动漫",
       "type": 3,
       "api": "csp_AnimeTsukimi"
     },
     {
-      "key": "稀饭",
+      "key": "稀饭动漫",
       "name": "稀饭 • 动漫",
       "type": 3,
       "api": "csp_AnimeXifan"
@@ -842,6 +842,12 @@
       "name": "花子 • 动漫",
       "type": 3,
       "api": "csp_AnimeHuazi"
+    },
+    {
+      "key": "漫国动漫",
+      "name": "漫国 • 动漫",
+      "type": 3,
+      "api": "csp_AnimeGHG"
     },
     {
       "key": "荐片",
